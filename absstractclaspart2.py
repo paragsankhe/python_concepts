@@ -1,4 +1,4 @@
-from abcd import ABC, abstractmethod
+from abc import ABC, abstractmethod
 
 class X(ABC):
 
